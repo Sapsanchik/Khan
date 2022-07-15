@@ -1,0 +1,223 @@
+.windowResult {
+  height: 700px ;
+  margin: 0 351.5px ;
+}
+
+.windowResultText {
+  font-size: 53px ;
+}
+
+.windowResultHr {
+  border: 3px solid green ;
+}
+
+.windowSensei {
+  height: 700px ;
+  margin: 0 351.5px ;
+}
+
+.windowSenseiText {
+  color: rgba(33, 36, 44, 0.64) ;
+}
+
+.windowSenseiTextH2 {
+  font-size: 44px ;
+}
+
+.windowStudent {
+  height: 700px ;
+  margin: 0 351.5px ;
+}
+
+.windowStudentText {
+  color: rgba(33, 36, 44, 0.64) ;
+}
+
+.windowStudentTextH2 {
+  font-size: 44px ;
+}
+
+.windowAnjali {
+  width: 800px ;
+}
+
+.windowAnjaliText {
+  font-size: 32px ;
+}
+
+.windowChildren {
+  height: 700px ;
+  margin: 0 351.5px ;
+}
+
+.windowChildrenText {
+  color: rgba(33, 36, 44, 0.64) ;
+}
+
+.windowChildrenTextH2 {
+  font-size: 44px ;
+}
+
+.partner {
+  padding: 115px 64px 78px 64px ;
+}
+
+.partnerImg {
+  max-width: 1024px ;
+}
+
+.partnerImg1 {
+  width: 204px ;
+  height: 21.2px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg2 {
+  width: 189px ;
+  height: 32.5px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg3 {
+  width: 165.5px ;
+  height: 19px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg4 {
+  width: 215.5px ;
+  height: 43px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg5 {
+  width: 151px ;
+  height: 48px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg6 {
+  width: 221px ;
+  height: 20px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg7 {
+  width: 172.5px ;
+  height: 17px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg8 {
+  width: 155px ;
+  height: 32px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg10 {
+  width: 87.5px ;
+  height: 36px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg11 {
+  width: 115px ;
+  height: 24.75px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg12 {
+  width: 146px ;
+  height: 24px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg13 {
+  width: 82px ;
+  height: 31px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg14 {
+  width: 158px ;
+  height: 42.5px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerImg15 {
+  width: 111px ;
+  height: 29px ;
+  margin: 0 28px 32px ;
+}
+
+.partnerHr {
+  height: 1px ;
+  background: #2d444e ;
+  max-width: 1024px ;
+  margin: 36px 0 68px ;
+  box-shadow: 0 2px 2px rgb(0 0 0 / 8%) ;
+  clear: both ;
+  color: #ccc ;
+}
+
+.footer {
+  background-color: #0a2a66 ;
+  clear: both ;
+  color: #8295ba ;
+  padding: 12px 20px ;
+}
+
+.footerContent {
+  max-width: 1200px ;
+  margin: 0 auto ;
+  padding: 0 20px ;
+}
+
+.footerContentMission {
+  padding: 36px 0 20px ;
+}
+
+.footerContentDiv {
+  width: 40% ;
+  padding-right: 40px ;
+  padding-bottom: 40px ;
+}
+
+.footerContentP {
+  font-size: 20px ;
+  line-height: 30px ;
+  max-width: 440px ;
+}
+
+a {
+  cursor: pointer ;
+  text-decoration: none ;
+  outline: none ;
+  color: #ffffff ;
+}
+
+a:hover {
+  text-decoration: underline ;
+}
+
+.footerUl {
+  font-size: 12px ;
+  line-height: 14px ;
+}
+
+h3 {
+  min-height: 32px !important;
+  font-size: 12px !important;
+  line-height: 14px !important;
+  font-weight: bold !important;
+}
+
+.footerLi {
+  min-height: 32px ;
+}
+
+.flag {
+  width: 13px ;
+  height: 12px ;
+  margin: 1px 6px 0 0 ;
+}

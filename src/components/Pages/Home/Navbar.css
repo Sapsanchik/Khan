@@ -1,0 +1,7 @@
+.window {
+  background: url('../../../img/left-background.png'), url('../../../img/right-background.png');
+  background-position: center left, top -62px right 0px;
+  background-repeat: no-repeat ;
+  background-color: #FAFAFA ;
+  opacity: 0.99;
+}

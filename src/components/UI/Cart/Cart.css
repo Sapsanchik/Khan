@@ -1,0 +1,16 @@
+.cart {
+  width: 304px;
+  height: 368px;
+}
+
+.cartImg {
+  width: 148px;
+  height: 133px;
+  padding-top: 18px;
+  padding-bottom: 6px;
+}
+
+.cartText {
+  padding-top: 15px;
+  font-size: 25px;
+}
